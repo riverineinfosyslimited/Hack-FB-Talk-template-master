@@ -1,6 +1,5 @@
 <?php
 
-$appId = '';      // put your app id here
-$appSecret = '';  // put your app secret here
-
+$appId = '';      // 349633828936760
+$appSecret = '';  // 0e54945664be46789076c9ff496f48a4
 ?>
